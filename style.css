@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans Malayalam', sans-serif;
+  background-color: #f5f5f5;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  padding: 15px;
+  background-color: #d1c4e9;
+  font-size: 28px;
+}
+
+.buffalo-container {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 80px); /* Leaves room for header and form */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.buffalo-container img {
+  height: 100%;
+  width: auto;
+  max-width: none;
+  object-fit: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.buffalo-container img.clicked {
+  transform: scale(1.05) rotate(5deg);
+}
+
+#input-area {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: none;
+  z-index: 10;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 5px;
+}
