@@ -1,102 +1,86 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-
-
-# [Project Name] 🎯
-
+# 🎯 Project Name: പോതിന്റെ ചെവിയിൽ വേദം ഓദിട്ട് കാര്യം ഇല്ല 
 
 ## Basic Details
-### Team Name: [Name]
 
+### Team Name: Fanum tax
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+
+* Team Lead: Krishnajith - CE Karunagappally
+* Member 2: Anamika - CE Karunagappally
 
 ### Project Description
-[2-3 lines about what your project does]
+
+A web-based interactive experience where wise advice is typed into a textbox inside a buffalo's ear. When submitted, the buffalo opens its mouth, moos, and ignores your advice entirely — a metaphor for talking to someone who never listens.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
+Some people never listen, no matter how wise or helpful your advice is. We needed a digital version of that experience.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+
+We created a buffalo that takes your advice — literally through its ear — and responds with a dismissive "moo." Therapeutic and frustrating at the same time.
 
 ## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+### Technologies/Components Used
+
+**For Software:**
+
+* HTML, CSS, JavaScript
+* No frameworks (raw power of uselessness)
+* Libraries: None
+* Tools: VS Code, Paint, AI image generation, your patience
+
+**For Hardware:**
+
+* None. Purely software.
 
 ### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
+**For Software:**
+
+#### Installation
+
+```
+No installation required. Just open the index.html file in any browser.
+```
+
+#### Run
+
+```
+Double-click on index.html or host on a static web server.
+```
 
 ### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+#### Screenshots (Add at least 3)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1916" height="938" alt="Screenshot 2025-08-02 073121" src="https://github.com/user-attachments/assets/ba4140f7-24e5-4ef0-a3da-db8bc098b36d" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1916" height="937" alt="Screenshot 2025-08-02 075048" src="https://github.com/user-attachments/assets/15a3b560-2a0b-4be4-acb4-b33a8892d4e8" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1914" height="944" alt="Screenshot 2025-08-02 073048" src="https://github.com/user-attachments/assets/b9bfecc2-931d-4ca1-ac9d-ab6cb32106ce" />
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+#### Diagrams
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+&#x20;*User types advice → Buffalo listens (not really) → Moo → Done*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+#### Video
+https://drive.google.com/file/d/1a9c879KFR21yHW6u5eRrjOYWNX9dUQ4d/view?usp=drive_link
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+* Krishnajith: Idea, JavaScript logic, image editing, moo audio integration ,UI design, buffalo art choice, ear positioning
+* Anamika: sarcasm manager
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+Made with ❤️ at TinkerHub Useless Projects
 
-
-
+&#x20;
